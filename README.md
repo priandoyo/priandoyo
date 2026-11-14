@@ -10,6 +10,10 @@
 - [MiniGDP](https://github.com/priandoyo/minigdp) - A collection of Python notebooks for economic modelling, econometric analysis, macroeconomic simulation, and machine-learning-based forecasting (9 Aug 2025)
 - [MiniFDS](https://github.com/priandoyo/minifds) - Lightweight Python-based fraud detection to identify potentially fraudulent mobile banking transactions.
 
+### Cyber Security
+
+-[API-Demo](https://github.com/priandoyo/api-demo) - API-Demo is a lightweight Node.js and Express project demonstrating REST APIs, JSON data exchange, and service integration through a simple web application (23 Feb 2026)
+
 ### Learning & Experimentation
 
 - [Hello](https://github.com/priandoyo/hello) – Programming experiments, tutorials, and technology demonstrations across different tools and languages.
