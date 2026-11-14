@@ -7,7 +7,7 @@
 
 - [FoodVision](https://github.com/priandoyo/foodvision) – Food recognition and analysis, exploring image classification, captioning, object detection, and segmentation.
 - [MiniScore](https://github.com/priandoyo/miniscore) – Credit-scoring experiment using machine learning.
-- [MiniGDP](https://github.com/priandoyo/minigdp) - A collection of Python notebooks for economic modelling, econometric analysis, macroeconomic simulation, and machine-learning-based forecasting (Start: 9 Aug 2025)
+- [MiniGDP](https://github.com/priandoyo/minigdp) - A collection of Python notebooks for economic modelling, econometric analysis, macroeconomic simulation, and machine-learning-based forecasting (9 Aug 2025)
 - [MiniFDS](https://github.com/priandoyo/minifds) - Lightweight Python-based fraud detection to identify potentially fraudulent mobile banking transactions.
 
 ### Learning & Experimentation
