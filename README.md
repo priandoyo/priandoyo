@@ -1,5 +1,3 @@
-## Projects
-
 ### Software Development
 
 - [MiniBank](https://github.com/priandoyo/minibank) – A web-based banking simulator built with Python, Flask, and SQLite.
@@ -15,15 +13,3 @@
 - [Hello](https://github.com/priandoyo/hello) – Programming experiments, tutorials, and technology demonstrations across different tools and languages.
 - [About](https://github.com/priandoyo/about) – Personal website and profile.
 - [SmartRecruit](https://github.com/priandoyo/smartrecruit) – An educational AI recruitment demo using Python, Gradio, and Scikit-learn to explore candidate screening, machine learning pipelines, and potential bias in automated decisions.
-
-## Areas of Interest
-
-- Artificial Intelligence & Machine Learning
-- Software Engineering
-- Cybersecurity & IT Risk Management
-- Data Analytics
-- IT Governance
-
----
-
-*Learning, building, experimenting, and sharing.*
