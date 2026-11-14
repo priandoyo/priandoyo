@@ -1,7 +1,7 @@
 ### Software Development
 
+- [TaskFlow](https://github.com/priandoyo/taskflow) – A task management application built with PHP and SQLite (25 Oct 2026)
 - [MiniBank](https://github.com/priandoyo/minibank) – A web-based banking simulator built with Python, Flask, and SQLite.
-- [TaskFlow](https://github.com/priandoyo/taskflow) – A task management application built with PHP and SQLite.
 
 ### Artificial Intelligence & Data Science
 
