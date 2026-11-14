@@ -5,11 +5,11 @@
 
 ### Artificial Intelligence & Data Science
 
-- [FoodVision](https://github.com/priandoyo/foodvision) – AI-powered food recognition and analysis, exploring image classification, captioning, object detection, and segmentation.
-- [MiniScore](https://github.com/priandoyo/miniscore) – A lightweight credit-scoring experiment using machine learning.
+- [FoodVision](https://github.com/priandoyo/foodvision) – Food recognition and analysis, exploring image classification, captioning, object detection, and segmentation.
+- [MiniScore](https://github.com/priandoyo/miniscore) – Credit-scoring experiment using machine learning.
 
 ### Learning & Experimentation
 
 - [Hello](https://github.com/priandoyo/hello) – Programming experiments, tutorials, and technology demonstrations across different tools and languages.
 - [About](https://github.com/priandoyo/about) – Personal website and profile.
-- [SmartRecruit](https://github.com/priandoyo/smartrecruit) – An educational AI recruitment demo using Python, Gradio, and Scikit-learn to explore candidate screening, machine learning pipelines, and potential bias in automated decisions.
+- [SmartRecruit](https://github.com/priandoyo/smartrecruit) – Recruitment application using Python, Gradio, and Scikit-learn to explore candidate screening, machine learning pipelines, and potential bias in automated decisions.
