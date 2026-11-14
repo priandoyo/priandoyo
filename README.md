@@ -12,7 +12,7 @@
 
 ### Cyber Security
 
--[API-Demo](https://github.com/priandoyo/api-demo) - API-Demo is a lightweight Node.js and Express project demonstrating REST APIs, JSON data exchange, and service integration through a simple web application (23 Feb 2026)
+- [API-Demo](https://github.com/priandoyo/api-demo) - API-Demo is a lightweight Node.js and Express project demonstrating REST APIs, JSON data exchange, and service integration through a simple web application (23 Feb 2026).
 
 ### Learning & Experimentation
 
