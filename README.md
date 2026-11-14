@@ -7,6 +7,7 @@
 
 - [FoodVision](https://github.com/priandoyo/foodvision) – Food recognition and analysis, exploring image classification, captioning, object detection, and segmentation.
 - [MiniScore](https://github.com/priandoyo/miniscore) – Credit-scoring experiment using machine learning.
+- [MiniGDP](https://github.com/priandoyo/minigdp) - GDP Growth Prediction Python Econometrics OLS Regression A small Python-based econometric experiment 
 
 ### Learning & Experimentation
 
