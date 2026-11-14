@@ -1,11 +1,3 @@
-# Anjar Priandoyo
-
-**Technology | Software Engineering | AI | IT Governance**
-
-I am an IT professional with a background in Computer Science, Engineering Management, and Environmental Science.
-
-My interests span software engineering, artificial intelligence, cybersecurity, IT governance, and data analytics.
-
 ## Projects
 
 ### Software Development
