@@ -13,7 +13,7 @@
 - [MiniScore](https://github.com/priandoyo/miniscore) – Credit-scoring experiment using machine learning.
 - [MiniFDS](https://github.com/priandoyo/minifds) - Lightweight Python-based fraud detection to identify potentially fraudulent mobile banking transactions.
 
-### Cyber Security & Governance
+### Security & Governance
 
 - [API-Demo](https://github.com/priandoyo/api-demo) - API-Demo is a lightweight Node.js and Express project demonstrating REST APIs, JSON data exchange, and service integration through a simple web application (23 Feb 2026).
 - [Hello-Auditor](https://github.com/priandoyo/hello-auditor) - IT Governance, Software Testing, DevOps, and CI/CD for IT Auditors. Built with Python, pytest, Selenium, and GitHub Actions (21 Feb 2026)
