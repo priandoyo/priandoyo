@@ -1,6 +1,6 @@
 ### Software Development
 
-- [Archimate](https://github.com/priandoyo/archimate) - A simple visualization for IT architecture and the relationships between applications, assets, code, and business concepts (20 Dec 2016)
+- [Archimate](https://github.com/priandoyo/archimate) - A simple visualization for architecture and relationships between applications, assets, code, concepts (20 Dec 2016)
 - [TaskFlow](https://github.com/priandoyo/taskflow) – A task management application built with PHP and SQLite (25 Oct 2026)
 - [MiniBank](https://github.com/priandoyo/minibank) – A web-based banking built with Python, Flask, and SQLite (3 Oct 2026)
 - [MiniPay](https://github.com/priandoyo/minipay) - A lightweight web-based payment gateway built with Node.js and Express (28 Feb 2026)
