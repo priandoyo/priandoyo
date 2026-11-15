@@ -10,7 +10,7 @@
 - [FoodVision](https://github.com/priandoyo/foodvision) – Food recognition and analysis, exploring image classification, captioning, object detection, and segmentation.
 - [SmartRecruit](https://github.com/priandoyo/smartrecruit) – Recruitment application using Python, Gradio, and Scikit-learn to explore candidate screening, machine learning pipelines, and potential bias in automated decisions.
 - [MiniGDP](https://github.com/priandoyo/minigdp) - A collection of Python notebooks for economic modelling, econometric analysis, macroeconomic simulation, and machine-learning-based forecasting (9 Aug 2025)
-- [MiniScore](https://github.com/priandoyo/miniscore) – Credit-scoring experiment using machine learning.
+- [MiniScore](https://github.com/priandoyo/miniscore) – Credit-scoring experiment using machine learning (6 Jul 2025)
 - [MiniFDS](https://github.com/priandoyo/minifds) - Lightweight Python-based fraud detection to identify potentially fraudulent mobile banking transactions.
 
 ### Security & Governance
