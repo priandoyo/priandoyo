@@ -10,7 +10,7 @@
 
 - [FoodVision](https://github.com/priandoyo/foodvision) – Food recognition and analysis, exploring image classification, captioning, object detection, and segmentation.
 - [SmartRecruit](https://github.com/priandoyo/smartrecruit) – Recruitment application using Python, Gradio, and Scikit-learn to explore candidate screening, machine learning pipelines, and potential bias in automated decisions.
-- [MiniGDP](https://github.com/priandoyo/minigdp) - A collection of Python notebooks for economic modelling, econometric analysis, macroeconomic simulation, and machine-learning-based forecasting (9 Aug 2025)
+- [MiniGDP](https://github.com/priandoyo/minigdp) - **A collection** of Python notebooks for economic modelling, econometric analysis, macroeconomic simulation, and machine-learning-based forecasting (9 Aug 2025)
 - [MiniScore](https://github.com/priandoyo/miniscore) – Credit-scoring experiment using machine learning (6 Jul 2025)
 - [MiniFDS](https://github.com/priandoyo/minifds) - Lightweight Python-based fraud detection to identify potentially fraudulent mobile banking transactions.
 
@@ -18,6 +18,7 @@
 
 - [API-Demo](https://github.com/priandoyo/api-demo) - API-Demo is a lightweight Node.js and Express project demonstrating REST APIs, JSON data exchange, and service integration through a simple web application (23 Feb 2026).
 - [Hello-Auditor](https://github.com/priandoyo/hello-auditor) - IT Governance, Software Testing, DevOps, and CI/CD for IT Auditors. Built with Python, pytest, Selenium, and GitHub Actions (21 Feb 2026)
+- [Devops](https://github.com/priandoyo/devops/) - **A collection** of small projects, practical experiments, workshops, and technical demonstrations covering DevOps, software engineering, IT governance, automation, and technology.
 
 ### Learning & Experimentation
 
