@@ -1,9 +1,10 @@
 ### Software Development
 
 - [Archimate](https://github.com/priandoyo/archimate) - An architecture visualization for mapping applications, assets, code, and concepts, built with Python (20 Dec 2016)
+- [MiniNews](https://github.com/priandoyo/mininews) - A Python-based news reader that retrieves content from GitHub and displays it through Gradio interface (6 Feb 2026)
+- [MiniPay](https://github.com/priandoyo/minipay) - A payment gateway for processing payments and managing transactions, built with Node.js and Express (28 Feb 2026)
 - [TaskFlow](https://github.com/priandoyo/taskflow) - A task management for organizing tasks, tracking progress, and coordination, built with PHP and SQLite (25 Oct 2026)
 - [MiniBank](https://github.com/priandoyo/minibank) - A banking for managing accounts, transactions, and balances, built with Python, Flask, and SQLite (3 Oct 2026)
-- [MiniPay](https://github.com/priandoyo/minipay) - A payment gateway for processing payments and managing transactions, built with Node.js and Express (28 Feb 2026)
 
 ### Computer Science (Artificial Intelligence & Data Science)
 
