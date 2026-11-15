@@ -20,4 +20,4 @@
 ### Learning & Experimentation
 
 - [Hello](https://github.com/priandoyo/hello) – Programming experiments, tutorials, and technology demonstrations across different tools and languages.
-- [About](https://github.com/priandoyo/about) – Personal website and profile.
+- [About](https://github.com/priandoyo/aboutme) – Personal website and profile.
