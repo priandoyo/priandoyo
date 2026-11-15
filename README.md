@@ -5,7 +5,7 @@
 - [MiniBank](https://github.com/priandoyo/minibank) - A banking for managing accounts, transactions, and balances, built with Python, Flask, and SQLite (3 Oct 2026)
 - [MiniPay](https://github.com/priandoyo/minipay) - A payment gateway for processing payments and managing transactions, built with Node.js and Express (28 Feb 2026)
 
-### Artificial Intelligence & Data Science
+### Computer Science (Artificial Intelligence & Data Science)
 
 - [FoodVision](https://github.com/priandoyo/foodvision) – Food recognition and analysis, exploring image classification, captioning, object detection, and segmentation.
 - [SmartRecruit](https://github.com/priandoyo/smartrecruit) – Recruitment application using Python, Gradio, and Scikit-learn to explore candidate screening, machine learning pipelines, and potential bias in automated decisions.
@@ -13,7 +13,7 @@
 - [MiniScore](https://github.com/priandoyo/miniscore) – Credit-scoring experiment using machine learning.
 - [MiniFDS](https://github.com/priandoyo/minifds) - Lightweight Python-based fraud detection to identify potentially fraudulent mobile banking transactions.
 
-### Cyber Security
+### Cyber Security & Governance
 
 - [API-Demo](https://github.com/priandoyo/api-demo) - API-Demo is a lightweight Node.js and Express project demonstrating REST APIs, JSON data exchange, and service integration through a simple web application (23 Feb 2026).
 
