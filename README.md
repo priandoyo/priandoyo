@@ -23,4 +23,4 @@
 ### Learning & Experimentation
 
 - [Hello](https://github.com/priandoyo/hello) – Programming experiments, tutorials, and technology demonstrations across different tools and languages.
-- [About](https://github.com/priandoyo/aboutme) – Personal website and profile.
+- [AboutMe](https://github.com/priandoyo/aboutme) – Personal website and profile used to be deployed in Vercel
