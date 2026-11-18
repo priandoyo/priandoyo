@@ -1,4 +1,4 @@
-### Software Development
+### Software Engineering
 
 - [Archimate](https://github.com/priandoyo/archimate) - An architecture visualization for mapping applications, assets, code, and concepts, built with Python (20 Dec 2016)
 - [MiniNews](https://github.com/priandoyo/mininews) - A Python-based news reader that retrieves content from GitHub and displays it through Gradio interface (6 Feb 2026)
