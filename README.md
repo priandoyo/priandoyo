@@ -5,6 +5,7 @@
 - [MiniPay](https://github.com/priandoyo/minipay) - A payment gateway for processing payments and managing transactions, built with Node.js and Express (28 Feb 2026)
 - [MiniBank](https://github.com/priandoyo/minibank) - A banking for managing accounts, transactions, and balances, built with Python, Flask, and SQLite (3 Oct 2026)
 - [TaskFlow](https://github.com/priandoyo/taskflow) - A task management for organizing tasks, tracking progress, and coordination, built with PHP and SQLite (25 Oct 2026)
+- [Visualizer](https://github.com/priandoyo/visualizers) - Python-based COBIT 2019 visualizer for exploring five governance domains and 40 objectives, with Matplotlib diagrams and editable PowerPoint export.
 
 ### Intelligence (Computer Science, Artificial Intelligence & Data Science)
 
