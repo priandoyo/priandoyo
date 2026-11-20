@@ -19,7 +19,7 @@
 - [API-Demo](https://github.com/priandoyo/api-demo) - API-Demo is a lightweight Node.js and Express project demonstrating REST APIs, JSON data exchange, and service integration through a simple web application (23 Feb 2026).
 - [Hello-Auditor](https://github.com/priandoyo/hello-auditor) - IT Governance, Software Testing, DevOps, and CI/CD for IT Auditors. Built with Python, pytest, Selenium, and GitHub Actions (21 Feb 2026)
 - [Devops](https://github.com/priandoyo/devops/) - **A collection** of small projects, practical experiments, workshops, and technical demonstrations covering DevOps, software engineering, IT governance, automation, and technology.
-- [CryptoGraph](https://github.com/priandoyo/cryptograph) - Hands-on cryptography workshop platform combining Python-based decryption challenges
+- [CryptoGraph](https://github.com/priandoyo/cryptograph) - Hands-on cryptography workshop platform combining Python-based decryption challenges (20 Nov 2026)
 
 ### Learning & Experimentation
 
