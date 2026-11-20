@@ -7,7 +7,7 @@
 - [TaskFlow](https://github.com/priandoyo/taskflow) - A task management for organizing tasks, tracking progress, and coordination, built with PHP and SQLite (25 Oct 2026)
 - [Visualizer](https://github.com/priandoyo/visualizers) - Python-based COBIT 2019 visualizer for exploring five governance domains and 40 objectives, with Matplotlib diagrams and editable PowerPoint export.
 
-### Intelligence (Computer Science, Artificial Intelligence & Data Science)
+### Intelligence (Artificial Intelligence, Machine Learning & Data Science)
 
 - [FoodVision](https://github.com/priandoyo/foodvision) – Food recognition and analysis, exploring image classification, captioning, object detection, and segmentation.
 - [SmartRecruit](https://github.com/priandoyo/smartrecruit) – Recruitment application using Python, Gradio, and Scikit-learn to explore candidate screening, machine learning pipelines, and potential bias in automated decisions.
