@@ -26,7 +26,7 @@
 1. [**API-Demo**](https://github.com/priandoyo/api-demo) — A Node.js and Express project demonstrating REST APIs, JSON data exchange, and service integration. *(23 Feb 2026)*
 2. [**Hello-Auditor**](https://github.com/priandoyo/hello-auditor) — Practical IT governance, software testing, DevOps, and CI/CD demonstrations designed for IT auditors. *(21 Feb 2026)*
 3. [**DevOps**](https://github.com/priandoyo/devops) — A collection of hands-on projects, workshops, and technical demonstrations covering DevOps, automation, software engineering, and IT governance.
-4. [**CryptoGraph**](https://github.com/priandoyo/cryptograph) — A cryptography workshop platform featuring hands-on Python-based decryption challenges. *(20 Nov 2026)*
+4. [**CryptoGraph**](https://github.com/priandoyo/cryptograph) ([Live Demo at Vercel](https://cryptograph-beryl.vercel.app/)) — A cryptography workshop platform featuring hands-on Python-based decryption challenges. *(20 Nov 2026)*
 5. [**Streamlit**](https://github.com/priandoyo/streamlit) — A Streamlit application demonstrating automated CI quality checks with GitHub Actions and continuous deployment to Streamlit Community Cloud. *(21 Nov 2026)*
 6. [**Gradio**](https://github.com/priandoyo/gradio) — A Python web application demonstrating automated CI/CD deployment from GitHub to Hugging Face Spaces using GitHub Actions.
 7. [**Hello**](https://github.com/priandoyo/hello) — A collection of programming experiments, tutorials, and technology demonstrations across different languages and tools.
