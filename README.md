@@ -22,8 +22,5 @@
 - [Devops](https://github.com/priandoyo/devops/) - **A collection** of small projects, practical experiments, workshops, and technical demonstrations covering DevOps, software engineering, IT governance, automation, and technology.
 - [CryptoGraph](https://github.com/priandoyo/cryptograph) - Hands-on cryptography workshop platform combining Python-based decryption challenges (20 Nov 2026)
 - [Streamlit](https://github.com/priandoyo/streamlit/) - A Python Streamlit for automated CI quality gates with GitHub Actions and continuous deployment through Streamlit Community Cloud. (21 Nov 2026)
-
-### Learning & Experimentation
-
 - [Hello](https://github.com/priandoyo/hello) – Programming experiments, tutorials, and technology demonstrations across different tools and languages.
 - [AboutMe](https://github.com/priandoyo/aboutme) – Personal website and profile used to be deployed in Vercel
