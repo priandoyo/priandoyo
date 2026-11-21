@@ -3,11 +3,11 @@
 ## Engineering
 *Software engineering, application development, and web technologies.*
 
-1. [**Archimate**](https://github.com/priandoyo/archimate) — Enterprise architecture visualization for mapping applications, assets, code, and concepts, built with Python. *(20 Dec 2016)*
+1. [**Archimate**](https://github.com/priandoyo/archimate) — Enterprise architecture visualization for mapping applications, assets, code, and concepts, Python. *(20 Dec 2016)*
 2. [**MiniNews**](https://github.com/priandoyo/mininews) — A Python-based news reader that retrieves articles from GitHub and displays them through Gradio. *(6 Feb 2026)*
-3. [**MiniPay**](https://github.com/priandoyo/minipay) — A payment gateway for processing payment requests and managing transactions, built with Node.js and Express. *(28 Feb 2026)*
-4. [**MiniBank**](https://github.com/priandoyo/minibank) — A banking simulator for managing accounts, balances, and transactions, built with Python, Flask, and SQLite. *(3 Oct 2026)*
-5. [**TaskFlow**](https://github.com/priandoyo/taskflow) — A task management application for organizing work and tracking progress, built with PHP and SQLite. *(25 Oct 2026)*
+3. [**MiniPay**](https://github.com/priandoyo/minipay) — A payment gateway for processing payment requests and managing transactions, Node.js and Express. *(28 Feb 2026)*
+4. [**MiniBank**](https://github.com/priandoyo/minibank) — A banking simulator for managing accounts, balances, and transactions, Python, Flask, and SQLite. *(3 Oct 2026)*
+5. [**TaskFlow**](https://github.com/priandoyo/taskflow) — A task management application for organizing work and tracking progress, PHP and SQLite. *(25 Oct 2026)*
 6. [**Visualizers**](https://github.com/priandoyo/visualizers) — A COBIT 2019 visualization tool featuring Python, Matplotlib diagrams, and editable PowerPoint exports. *(20 Nov 2026)*
 
 ## Intelligence
