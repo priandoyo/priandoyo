@@ -16,7 +16,7 @@
 
 1. [**FoodVision**](https://github.com/priandoyo/foodvision) — An AI-powered food image analysis project exploring classification, captioning, object detection, and segmentation.
 2. [**SmartRecruit**](https://github.com/priandoyo/smartrecruit) — A machine-learning recruitment application exploring candidate screening, ML pipelines, and potential bias in automated decisions.
-3. [**MiniGDP**](https://github.com/priandoyo/minigdp) — Python notebooks for economic modelling, econometric analysis, macroeconomic simulation, and machine-learning forecasting. *(9 Aug 2025)*
+3. [**MiniGDP**](https://github.com/priandoyo/minigdp) ([Live Demo at Google Colab, sign in required](https://colab.research.google.com/github/priandoyo/minigdp/blob/main/gdpmodel.ipynb)) — Python notebooks for economic modelling, econometric analysis, macroeconomic simulation, and machine-learning forecasting. *(9 Aug 2025)*
 4. [**MiniScore**](https://github.com/priandoyo/miniscore) — A credit-scoring experiment demonstrating machine learning and decision-tree classification. *(6 Jul 2025)*
 5. [**MiniFDS**](https://github.com/priandoyo/minifds) — A lightweight fraud detection system for identifying potentially fraudulent mobile banking transactions.
 
