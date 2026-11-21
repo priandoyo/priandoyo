@@ -30,4 +30,4 @@
 5. [**Streamlit**](https://github.com/priandoyo/streamlit) — A Streamlit application demonstrating automated CI quality checks with GitHub Actions and continuous deployment to Streamlit Community Cloud. *(21 Nov 2026)*
 6. [**Gradio**](https://github.com/priandoyo/gradio) — A Python web application demonstrating automated CI/CD deployment from GitHub to Hugging Face Spaces using GitHub Actions.
 7. [**Hello**](https://github.com/priandoyo/hello) — A collection of programming experiments, tutorials, and technology demonstrations across different languages and tools.
-8. [**AboutMe**](https://github.com/priandoyo/aboutme) — A personal website presenting my profile, professional background, and experience.
+8. [**AboutMe**](https://github.com/priandoyo/aboutme) ([Live Demo](https://aboutme-zeta-neon.vercel.app/)) — A static personal portfolio website built with HTML, CSS, and JavaScript, without a backend application or database. It presents my professional profile, education, career experience, certifications, and technical interests. The source code is managed and version-controlled on GitHub, with the static website deployed and hosted on Vercel.
