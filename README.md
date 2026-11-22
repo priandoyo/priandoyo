@@ -19,7 +19,7 @@
 2. [**SmartRecruit**](https://github.com/priandoyo/smartrecruit) — A machine-learning recruitment application exploring candidate screening, ML pipelines, and potential bias in automated decisions.
 3. [**MiniGDP**](https://github.com/priandoyo/minigdp) ([Live Demo at Google Colab](https://colab.research.google.com/github/priandoyo/minigdp/blob/main/gdpmodel.ipynb)) — Python notebooks for economic modelling, econometric analysis, macroeconomic simulation, and machine-learning forecasting. (9 Aug 2025)\
 4. [**MiniScore**](https://github.com/priandoyo/miniscore) — A credit-scoring experiment demonstrating machine learning and decision-tree classification. (6 Jul 2025)
-   - **Credit Default Prediction** ([Live Demo at Google Colab](https://colab.research.google.com/github/priandoyo/miniscore/blob/main/models/creditdefault.ipynb)) — Logistic Regression model predicting loan default probability based on customer income and debt ratio (13 Jul 2025)
+   - Credit Default Prediction ([Live Demo at Google Colab](https://colab.research.google.com/github/priandoyo/miniscore/blob/main/models/creditdefault.ipynb)) — Logistic Regression model predicting loan default probability based on customer income and debt ratio (13 Jul 2025)
 5. [**MiniFDS**](https://github.com/priandoyo/minifds) — A lightweight fraud detection system for identifying potentially fraudulent mobile banking transactions
 6. [**MiniLLM**](https://github.com/priandoyo/minillm) ([Live Demo at Google Colab](https://colab.research.google.com/github/priandoyo/minillm/blob/main/MiniLLM_qween.ipynb)) — Lightweight LLM chatbot using Qwen3-0.6B (600 million parameters), demonstrating open-weight language model inference on CPU and GPU. *Python, PyTorch, Hugging Face Transformers, Gradio, Google Colab.* (22 Nov 2026)
 
@@ -34,3 +34,11 @@
 6. [**Gradio**](https://github.com/priandoyo/gradio) — A Python web application demonstrating automated CI/CD deployment from GitHub to Hugging Face Spaces using GitHub Actions.
 7. [**Hello**](https://github.com/priandoyo/hello) — A collection of programming experiments, tutorials, and technology demonstrations across different languages and tools.
 8. [**AboutMe**](https://github.com/priandoyo/aboutme) ([Live Demo at Vercel](https://aboutme-zeta-neon.vercel.app/)) — A static personal portfolio website built with HTML, CSS, and JavaScript, without a backend application or database. It presents my professional profile, education, career experience, certifications, and technical interests. The source code is managed and version-controlled on GitHub, with the static website deployed and hosted on Vercel.
+
+## Disclaimer
+
+The repositories listed here are personal engineering experiments, educational projects, research prototypes, and technical demonstrations.
+
+They are provided for learning, experimentation, and demonstration purposes. Unless explicitly stated otherwise, they are not intended for production use or to process real financial transactions, sensitive personal information, or confidential business data.
+
+Use demonstration data and credentials only. Do not submit sensitive or confidential information through publicly accessible applications.
