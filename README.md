@@ -11,7 +11,7 @@
 6. [**TaskList**](https://github.com/priandoyo/tasklist) ([Live Demo at Render](https://tasklist-g7iw.onrender.com/index.php)) — Single-User Task Manager, Manages personal tasks and completion status. *PHP, JSON, Apache, Docker, Render.* (22 Nov 2026)
 7. [**Visualizers**](https://github.com/priandoyo/visualizers) — Visualizes COBIT 2019 domains and generates editable PowerPoint diagrams. *Python, Matplotlib, Streamlit, python-pptx.* (20 Nov 2026)
 8. [**AuditFit**](https://github.com/priandoyo/auditfit) ([Live Demo at Streamlit](https://auditfit.streamlit.app/)) — Non-CRUD Rule-Based Assessment, evaluates auditor competency using experience, expertise,  exposure. *Python, Streamlit, Rule-Based Scoring, Streamlit Cloud.* (21 Nov 2026)
-9. [**Scoreboard**](https://github.com/priandoyo/scoreboard) ([GitHub Repository](https://github.com/priandoyo/scoreboard) | [Live Demo at Render](https://scoreboard-7n18.onrender.com/)) — Workshop Quiz & Leaderboard, collects participant answers and ranks submissions by speed. *PHP, JavaScript, SQLite, Apache, Docker, Render.* (22 Nov 2026)
+9. [**Scoreboard**](https://github.com/priandoyo/scoreboard) ([Live Demo at Render](https://scoreboard-7n18.onrender.com/)) — Workshop Quiz & Leaderboard, collects participant answers and ranks submissions by speed. *PHP, JavaScript, SQLite, Apache, Docker, Render.* (22 Nov 2026)
 
 ## Intelligence
 *Artificial intelligence, machine learning, and data science.*
