@@ -5,8 +5,8 @@
 
 1. [**Archimate**](https://github.com/priandoyo/archimate) — Architecture Visualizer, maps enterprise applications, assets, code, and concepts. *Python, Google Colab.* (20 Dec 2016)
 2. [**MiniNews**](https://github.com/priandoyo/mininews) — News Reader, retrieves and displays articles from GitHub. *Python, Gradio, Hugging Face Spaces.* (6 Feb 2026)
-3. [**MiniPay**](https://github.com/priandoyo/minipay) — Payment Gateway Simulator, simulates payment requests and transaction processing. *Node.js, Express, JavaScript.* (28 Feb 2026)
-4. [**MiniBank**](https://github.com/priandoyo/minibank) — Banking Simulator, manages bank accounts, balances, deposits, and transfers. *Python, Flask, SQLite.* (3 Oct 2026)
+3. [**MiniPay**](https://github.com/priandoyo/minipay) — Payment Gateway, payment requests and transaction processing. *Node.js, Express, JavaScript.* (28 Feb 2026)
+4. [**MiniBank**](https://github.com/priandoyo/minibank) — Banking, manages bank accounts, balances, deposits, and transfers. *Python, Flask, SQLite.* (3 Oct 2026)
 5. [**TaskFlow**](https://github.com/priandoyo/taskflow) — Multi-User Task Manager, Manages group assignments, task progress, and accountability. *PHP, SQLite, Bootstrap.* (25 Oct 2026)
 6. [**TaskList**](https://github.com/priandoyo/tasklist) ([Live Demo](https://tasklist-g7iw.onrender.com/index.php)) — Single-User Task Manager, Manages personal tasks and completion status. *PHP, JSON, Apache, Docker, Render.* (22 Nov 2026)
 7. [**Visualizers**](https://github.com/priandoyo/visualizers) — Visualizes COBIT 2019 domains and generates editable PowerPoint diagrams. *Python, Matplotlib, Streamlit, python-pptx.* (20 Nov 2026)
