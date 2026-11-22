@@ -38,8 +38,4 @@
 
 ## Disclaimer
 
-The repositories listed here are personal engineering experiments, educational projects, research prototypes, and technical demonstrations.
-
-They are provided for learning, experimentation, and demonstration purposes. Unless explicitly stated otherwise, they are not intended for production use or to process real financial transactions, sensitive personal information, or confidential business data.
-
-Use demonstration data and credentials only. Do not submit sensitive or confidential information through publicly accessible applications.
+The repositories listed here are personal engineering experiments, educational projects, research prototypes, and technical demonstrations. They are provided for learning, experimentation, and demonstration purposes. Unless explicitly stated otherwise, they are not intended for production use or to process real financial transactions, sensitive personal information, or confidential business data. Use demonstration data and credentials only. Do not submit sensitive or confidential information through publicly accessible applications.
