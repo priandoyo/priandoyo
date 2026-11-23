@@ -7,12 +7,13 @@
 2. [**MiniNews**](https://github.com/priandoyo/mininews) — News Reader, retrieves and displays articles from GitHub. *Python, Gradio, Hugging Face Spaces.* (6 Feb 2026)
 3. [**MiniPay**](https://github.com/priandoyo/minipay) — Payment Gateway, payment requests and transaction processing. *Node.js, Express, JavaScript.* (28 Feb 2026)
 4. [**MiniBank**](https://github.com/priandoyo/minibank) — Banking, manages bank accounts, balances, deposits, and transfers. *Python, Flask, SQLite.* (3 Oct 2026)
-5. [**TaskFlow**](https://github.com/priandoyo/taskflow) — Multi-User Task Manager, manages group assignments, task progress, and accountability. *PHP, SQLite, Bootstrap.* (25 Oct 2026)
-6. [**TaskList**](https://github.com/priandoyo/tasklist) ([Live Demo at Render](https://tasklist-g7iw.onrender.com/index.php)) — Single-User Task Manager, manages personal tasks and completion status. *PHP, JSON, Apache, Docker, Render.* (22 Nov 2026)
-7. [**Visualizers**](https://github.com/priandoyo/visualizers) — Visualizes COBIT 2019 domains and generates editable PowerPoint diagrams. *Python, Matplotlib, Streamlit, python-pptx.* (20 Nov 2026)
-8. [**AuditFit**](https://github.com/priandoyo/auditfit) ([Live Demo at Streamlit](https://auditfit.streamlit.app/)) — Non-CRUD Rule-Based Assessment, evaluates auditor competency using experience, expertise, and exposure. *Python, Streamlit, Rule-Based Scoring, Streamlit Cloud.* (21 Nov 2026)
-9. [**Scoreboard**](https://github.com/priandoyo/scoreboard) ([Live Demo at Render](https://scoreboard-7n18.onrender.com/)) — Workshop Quiz & Leaderboard, collects participant answers and ranks submissions by speed. *PHP, JavaScript, SQLite, Apache, Docker, Render.* (22 Nov 2026). First made with GitHub Copilot.
-10. **UI/UX & Design Engineering**
+5. **Task Management**
+    - [**TaskFlow**](https://github.com/priandoyo/taskflow) — Multi-User Task Manager, manages group assignments, task progress, and accountability. *PHP, SQLite, Bootstrap.* (25 Oct 2026)
+    - [**TaskList**](https://github.com/priandoyo/tasklist) ([Live Demo at Render](https://tasklist-g7iw.onrender.com/index.php)) — Single-User Task Manager, manages personal tasks and completion status. *PHP, JSON, Apache, Docker, Render.* (22 Nov 2026)
+6. [**Visualizers**](https://github.com/priandoyo/visualizers) — Visualizes COBIT 2019 domains and generates editable PowerPoint diagrams. *Python, Matplotlib, Streamlit, python-pptx.* (20 Nov 2026)
+7. [**AuditFit**](https://github.com/priandoyo/auditfit) ([Live Demo at Streamlit](https://auditfit.streamlit.app/)) — Non-CRUD Rule-Based Assessment, evaluates auditor competency using experience, expertise, and exposure. *Python, Streamlit, Rule-Based Scoring, Streamlit Cloud.* (21 Nov 2026)
+8. [**Scoreboard**](https://github.com/priandoyo/scoreboard) ([Live Demo at Render](https://scoreboard-7n18.onrender.com/)) — Workshop Quiz & Leaderboard, collects participant answers and ranks submissions by speed. *PHP, JavaScript, SQLite, Apache, Docker, Render.* (22 Nov 2026). First made with GitHub Copilot.
+9. **UI/UX & Design Engineering**
     - [**Design**](https://github.com/priandoyo/design) — A collection of interactive web dashboard and UI design prototypes, built with HTML, CSS, and JavaScript. (23 Nov 2026)
     - [**ScoreRank**](https://github.com/priandoyo/scorerank) ([Live Demo at GitHub Pages](https://priandoyo.github.io/scorerank/)) — Simple UI/UX prototypes and interface experiments.
 
