@@ -16,6 +16,7 @@
 9. **UI/UX & Design Engineering**
     - [**Design**](https://github.com/priandoyo/design) — A collection of interactive web dashboard and UI design prototypes, built with HTML, CSS, and JavaScript. (23 Nov 2026)
     - [**ScoreRank**](https://github.com/priandoyo/scorerank) ([Live Demo at GitHub Pages](https://priandoyo.github.io/scorerank/)) — Simple UI/UX prototypes and interface experiments.
+10. [**Guestbook**](https://github.com/priandoyo/guestbook)([Live Demo at Render](https://guestbook-s8du.onrender.com)) — Secure Multi-User Guestbook, supports user registration, login, and authenticated message posting. *Node.js, Express, SQLite.* (24 Nov 2026)
 
 ## Intelligence
 *Artificial intelligence, machine learning, and data science.*
