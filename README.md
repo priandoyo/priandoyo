@@ -22,7 +22,9 @@
 ## Intelligence
 *Artificial intelligence, machine learning, and data science.*
 
-1. [**FoodVision**](https://github.com/priandoyo/foodvision) — An AI-powered food image analysis project exploring classification, captioning, object detection, and segmentation using YOLO26n-cls (5.79 MB), original version in 31 Aug 2025
+1.Food Detection
+- [**FoodVision**](https://github.com/priandoyo/foodvision) — An AI-powered food image analysis project exploring classification, captioning, object detection, and segmentation using YOLO26n-cls (5.79 MB), original version in 31 Aug 2025
+- [**FoodDetect**](https://github.com/priandoyo/fooddetect-streamlit?utm_source=chatgpt.com) ([Live Demo at Streamlit](https://fooddetect.streamlit.app/?utm_source=chatgpt.com)) — AI-powered food image classification, compares CLIP, YOLO, and MobileNetV3-Small with model size, loading time, and inference performance metrics. *Python, PyTorch, CLIP, YOLO, MobileNetV3, Streamlit.* (28 Nov 2026)
 2. [**CoffeePrediction**](https://github.com/priandoyo/coffeeprediction?utm_source=chatgpt.com) ([Google Colab Notebook](https://colab.research.google.com/github/priandoyo/coffeeprediction/blob/main/coffee_prediction.ipynb?utm_source=chatgpt.com)) — Interactive predictive analytics demonstration using Ordinary Least Squares (OLS) multiple linear regression to estimate participant age based on daily coffee consumption and sugar preferences. *Python, Pandas, Statsmodels, NumPy, Google Colab.* (10 Aug 2025)
 3. [**SmartRecruit**](https://github.com/priandoyo/smartrecruit) — A machine-learning recruitment application exploring candidate screening, ML pipelines, and potential bias in automated decisions.
 4. [**MiniGDP**](https://github.com/priandoyo/minigdp) ([Live Demo at Google Colab](https://colab.research.google.com/github/priandoyo/minigdp/blob/main/gdpmodel.ipynb)) — Python notebooks for economic modelling, econometric analysis, macroeconomic simulation, and machine-learning forecasting. (9 Aug 2025)
