@@ -23,12 +23,13 @@
 *Artificial intelligence, machine learning, and data science.*
 
 1. [**FoodVision**](https://github.com/priandoyo/foodvision) — An AI-powered food image analysis project exploring classification, captioning, object detection, and segmentation using YOLO26n-cls (5.79 MB)
-2. [**SmartRecruit**](https://github.com/priandoyo/smartrecruit) — A machine-learning recruitment application exploring candidate screening, ML pipelines, and potential bias in automated decisions.
-3. [**MiniGDP**](https://github.com/priandoyo/minigdp) ([Live Demo at Google Colab](https://colab.research.google.com/github/priandoyo/minigdp/blob/main/gdpmodel.ipynb)) — Python notebooks for economic modelling, econometric analysis, macroeconomic simulation, and machine-learning forecasting. (9 Aug 2025)\
-4. [**MiniScore**](https://github.com/priandoyo/miniscore) — A credit-scoring experiment demonstrating machine learning and decision-tree classification. (6 Jul 2025)
+2. [**Coffee & Age Prediction**](https://github.com/priandoyo/coffeeprediction?utm_source=chatgpt.com) ([Google Colab Notebook](https://colab.research.google.com/github/priandoyo/coffeeprediction/blob/main/coffee_prediction.ipynb?utm_source=chatgpt.com)) — Interactive predictive analytics demonstration using Ordinary Least Squares (OLS) multiple linear regression to estimate participant age based on daily coffee consumption and sugar preferences. *Python, Pandas, Statsmodels, NumPy, Google Colab.* (10 Aug 2025)
+3. [**SmartRecruit**](https://github.com/priandoyo/smartrecruit) — A machine-learning recruitment application exploring candidate screening, ML pipelines, and potential bias in automated decisions.
+4. [**MiniGDP**](https://github.com/priandoyo/minigdp) ([Live Demo at Google Colab](https://colab.research.google.com/github/priandoyo/minigdp/blob/main/gdpmodel.ipynb)) — Python notebooks for economic modelling, econometric analysis, macroeconomic simulation, and machine-learning forecasting. (9 Aug 2025)\
+5. [**MiniScore**](https://github.com/priandoyo/miniscore) — A credit-scoring experiment demonstrating machine learning and decision-tree classification. (6 Jul 2025)
    - Credit Default Prediction ([Live Demo at Google Colab](https://colab.research.google.com/github/priandoyo/miniscore/blob/main/models/creditdefault.ipynb)) — Logistic Regression model predicting loan default probability based on customer income and debt ratio (13 Jul 2025)
-5. [**MiniFDS**](https://github.com/priandoyo/minifds) — A lightweight fraud detection system for identifying potentially fraudulent mobile banking transactions
-6. [**MiniLLM**](https://github.com/priandoyo/minillm) ([Live Demo at Google Colab](https://colab.research.google.com/github/priandoyo/minillm/blob/main/MiniLLM_qween.ipynb)) — Lightweight LLM chatbot using Qwen3-0.6B (600 million parameters), demonstrating open-weight language model inference on CPU and GPU. *Python, PyTorch, Hugging Face Transformers, Gradio, Google Colab.* (22 Nov 2026)
+6. [**MiniFDS**](https://github.com/priandoyo/minifds) — A lightweight fraud detection system for identifying potentially fraudulent mobile banking transactions
+7. [**MiniLLM**](https://github.com/priandoyo/minillm) ([Live Demo at Google Colab](https://colab.research.google.com/github/priandoyo/minillm/blob/main/MiniLLM_qween.ipynb)) — Lightweight LLM chatbot using Qwen3-0.6B (600 million parameters), demonstrating open-weight language model inference on CPU and GPU. *Python, PyTorch, Hugging Face Transformers, Gradio, Google Colab.* (22 Nov 2026)
 
 ## Security
 *Cybersecurity, IT governance, infrastructure, and software delivery.*
